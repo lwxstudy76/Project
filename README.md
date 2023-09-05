@@ -1,8 +1,5 @@
 # Multi-modal Graph Convolutional Network with Composing Contrastive Augmentations for Disease Prediction
 
-## About
--
-
 ## Prerequisites
 - `Python 3.9.0`
 - `Pytorch 1.12.1`
