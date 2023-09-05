@@ -1,1 +1,1 @@
-python train_eval_evgcn.py --dataset ODIR --num_classes 8 --train 1
+python train_eval.py --dataset ODIR --num_classes 8 --train 1
