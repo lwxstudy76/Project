@@ -20,7 +20,7 @@ we provide three datasets ABIDE、ADNI、ODIR[[BaiduPan](https://pan.baidu.com/s
 ```
 or run
 ```
-python train_eval_evgcn.py --dataset ABIDE --type Degree --num_classes 2 --train 1
-python train_eval_evgcn.py --dataset ADNI --type Degree --num_classes 2 --train 1
-python train_eval_evgcn.py --dataset ODIR --type Degree --num_classes 8 --train 1
+python train_eval.py --dataset ABIDE --type PageRank --num_classes 2 --train 1
+python train_eval.py --dataset ADNI --type PageRank --num_classes 2 --train 1
+python train_eval.py --dataset ODIR --type PageRank --num_classes 8 --train 1
 ```
